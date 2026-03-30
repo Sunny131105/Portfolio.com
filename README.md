@@ -1,6 +1,6 @@
 # 🌐 Personal Portfolio – Sunny
 
-🔗 **Live Website:** https://sunny-porfolio.netlify.app/
+🔗 **Live Website:** [sunnyporfolio.netlify.app](https://sunnyporfolio.netlify.app/)
 
 ## 📌 Overview
 This is my personal portfolio website showcasing my skills, projects, and experience as a **Data Analyst & Data Scientist**. It highlights my work, technical expertise, and provides a way to connect with me professionally.
